@@ -1,0 +1,16 @@
+locale = C.UTF-8
+recognized 'normal' (-1) as variant normal
+recognized 'normal' (-1) as variant normal
+recognized 'normal' (-1) as variant normal
+shuffleOpenings = 0
+shuffleOpenings = 0
+Version: xboard 4.9.1 + Maximuss ()
+Reset(1, 0) from gameMode 0
+recognized 'normal' (-1) as variant normal
+GameEnds(0, (null), 2)
+shuffleOpenings = 0
+StartChildProcess (dir=".") ./Maximuss.exe
+1460 >first : xboard
+protover 2
+1461 <first : ./Maximuss.exe: No such file or directory
+GameEnds(29, xboard exit, 2)

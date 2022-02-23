@@ -1,0 +1,6 @@
+﻿  Board.cpp
+C:\Users\Ovidiu\Desktop\Chess bot\Chess bot\Board.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ovidiu\Desktop\Chess bot\Chess bot\Board.cpp(370,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ovidiu\Desktop\Chess bot\Chess bot\Board.cpp(1275,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ovidiu\Desktop\Chess bot\Chess bot\Board.cpp(1303,20): warning C4018: '<': signed/unsigned mismatch
+  Chess bot.vcxproj -> C:\Users\Ovidiu\Desktop\Chess bot\Debug\Chess bot.exe

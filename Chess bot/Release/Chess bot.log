@@ -1,0 +1,19 @@
+﻿  Board.cpp
+C:\Users\Ovidiu\Desktop\Chess bot\Chess bot\Board.cpp(7,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ovidiu\Desktop\Chess bot\Chess bot\Board.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ovidiu\Desktop\Chess bot\Chess bot\Board.cpp(745,27): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Ovidiu\Desktop\Chess bot\Chess bot\Board.cpp(834,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ovidiu\Desktop\Chess bot\Chess bot\Board.cpp(1004,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ovidiu\Desktop\Chess bot\Chess bot\Board.cpp(1713,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ovidiu\Desktop\Chess bot\Chess bot\Board.cpp(1716,14): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\Ovidiu\Desktop\Chess bot\Chess bot\AI.h(245,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ovidiu\Desktop\Chess bot\Chess bot\AI.h(285,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ovidiu\Desktop\Chess bot\Chess bot\AI.h(424,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ovidiu\Desktop\Chess bot\Chess bot\AI.h(432,21): warning C4018: '<': signed/unsigned mismatch
+  Piece.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 742 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Chess bot.vcxproj -> C:\Users\Ovidiu\Desktop\Chess bot\Release\Chess bot.exe

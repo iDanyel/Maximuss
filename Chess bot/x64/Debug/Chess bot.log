@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Chess bot.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Board.cpp
+  main.cpp
+  Piece.cpp
+D:\Vara 2021\Chess\Chess bot\Chess bot\Board.cpp(719,27): warning C4553: '==': result of expression not used; did you intend '='?
+  Chess bot.vcxproj -> D:\Vara 2021\Chess\Chess bot\x64\Debug\Maximuss.exe

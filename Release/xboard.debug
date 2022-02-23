@@ -1,0 +1,31 @@
+locale = C.UTF-8
+recognized 'normal' (-1) as variant normal
+recognized 'normal' (-1) as variant normal
+recognized 'normal' (-1) as variant normal
+shuffleOpenings = 0
+shuffleOpenings = 0
+Version: xboard 4.9.1 + Maximuss ()
+Reset(1, 0) from gameMode 0
+recognized 'normal' (-1) as variant normal
+GameEnds(0, (null), 2)
+shuffleOpenings = 0
+StartChildProcess (dir=".") ./Maximuss.exe
+293 >first : xboard
+protover 2
+10294 >first : new
+random
+10294 >first : level 40 5 0
+10294 >first : sd 2
+10294 >first : post
+10294 >first : hard
+nps: w=-1, b=-1
+nps: w=-1, b=-1
+11494 >first : time 30000
+11502 >first : otim 30000
+book hit = (NULL)
+11503 >first : e2e4
+GameEnds(27, Error writing to first chess program, 2)
+Interrupting first
+13864 >first : result 0-1 {Error writing to first chess program}
+13864 >first : force
+13864 >first : quit
